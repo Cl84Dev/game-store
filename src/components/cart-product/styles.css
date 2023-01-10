@@ -1,0 +1,21 @@
+.game-card {
+    width: 250px;
+    height: 310px;
+    position: relative;
+}
+
+img {
+    width: 230px;
+    height: auto;
+    object-fit: cover;
+}
+
+.btn-cart {
+    width: 30px;
+    height: 30px
+}
+
+.btn-remove {
+    position: absolute;
+    right: 0px;
+}

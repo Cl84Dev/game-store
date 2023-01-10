@@ -1,0 +1,12 @@
+.button {
+    position: fixed;
+    top: 60px;
+    right: 10px;
+    z-index: 1;
+}
+
+@media (max-width: 430px) {
+    .button {
+        top: 110px
+    }
+}

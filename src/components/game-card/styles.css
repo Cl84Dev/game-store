@@ -1,0 +1,10 @@
+.game-card {
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    width: 280px;
+    height: auto;
+    object-fit: cover;
+}

@@ -1,0 +1,16 @@
+.nav-bar {
+    width: 100%;
+    height: 50px;
+}
+
+@media (max-width: 430px) {
+    .nav-bar {
+        display: flex;
+        flex-direction: column;
+        height: 100px;
+    }
+
+    .login {
+        padding: 10px
+    }
+}
