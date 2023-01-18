@@ -1,10 +1,10 @@
 .game-card {
-    width: 300px;
-    height: 300px;
+  width: 300px;
+  height: 350px;
 }
 
 img {
-    width: 280px;
-    height: auto;
-    object-fit: cover;
+  width: 280px;
+  height: 280px;
+  object-fit: scale-down;
 }
